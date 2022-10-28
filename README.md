@@ -1,3 +1,3 @@
 # Projeto-Pokedex
 
-Projeto do bootcamp inter orange tech+
+Projeto pokedex usando api
